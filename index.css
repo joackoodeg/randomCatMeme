@@ -22,15 +22,6 @@ html, body {
     font-family: 'Karla', sans-serif;
 }
 
-body{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    position: relative;
-}
-
 /*typography*/
 h1, h2, h3{
     text-align: center;
